@@ -1,17 +1,19 @@
 ## Spring Boot Api example
-
+# ATENCIÓN: Crear base de datos nombre springboot. 
+#crear base de datos nombre springboot
+# para añadir usuarios en metodo post Body  formato json datos de bd   { nombre:"",email:"","prioridad":2}
+#busqueda por id http://localhost:8080/usuario/2
+#La busqueda por prioridad http://localhost:8080/usuario/query?prioridad=3
+#(Se debe realizar delate por POSTMAN)   MODE DELATE:  localhost:8080/usuario/2
 Tutorial para crear una API de Spring boot.
 
-Ver los vídeos para entender la construcción:
 
+Ver los vídeos para entender la construcción:
 Fundamentos
 https://www.youtube.com/watch?v=WVHnk04skPc&t
-
 Rest  API 
 https://www.youtube.com/watch?v=vTu2HQrXtyw
-
 * Se actualizo el tipo de empaquetado a .jar
-
 Rest Full Api para crear usuarios y modelos. 
  
 * Get All the user
@@ -49,7 +51,9 @@ Unix based:
 Entrar a localhost:8080
 
 
-
+Referencias y creditos:
+DATACLOUDER
+https://github.com/adamofig
 
 
 
