@@ -1,9 +1,15 @@
 ## Spring Boot Api example
+
 ATENCIÓN: Crear base de datos nombre springboot. 
+
 crear base de datos nombre springboot
+
 para añadir usuarios en metodo post Body  formato json datos de bd   { nombre:"",email:"","prioridad":2}
+
 busqueda por id http://localhost:8080/usuario/2
+
 La busqueda por prioridad http://localhost:8080/usuario/query?prioridad=3
+
 (Se debe realizar delate por POSTMAN)   MODE DELATE:  localhost:8080/usuario/2
 
 
